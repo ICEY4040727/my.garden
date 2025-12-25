@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-partial-fractions/"}
+{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-partial-fractions/","created":"2025-12-18T01:16:51.639+08:00","updated":"2025-12-25T16:08:28.910+08:00"}
 ---
 
 

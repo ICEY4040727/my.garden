@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/specific-exercise/reasonable-split-and-merge-items/"}
+{"dg-publish":true,"permalink":"/specific-exercise/reasonable-split-and-merge-items/","created":"2025-12-21T20:39:48.872+08:00","updated":"2025-12-25T16:09:23.390+08:00"}
 ---
 
 # 1.$\displaystyle\int\frac{1+\cos x+\sin x}{1+\sin^2 x}\ d\ x$

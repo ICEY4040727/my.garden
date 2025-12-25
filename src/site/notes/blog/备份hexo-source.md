@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/hexo-source/"}
+{"dg-publish":true,"permalink":"/blog/hexo-source/","created":"2025-12-25T12:20:03.713+08:00","updated":"2025-12-25T16:12:53.324+08:00"}
 ---
 
 # 检查并配置忽略文件（至关重要）

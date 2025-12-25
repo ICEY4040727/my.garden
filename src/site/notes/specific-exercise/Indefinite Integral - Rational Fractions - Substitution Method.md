@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-substitution-method/"}
+{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-substitution-method/","created":"2025-12-18T01:51:04.286+08:00","updated":"2025-12-25T16:08:23.304+08:00"}
 ---
 
 

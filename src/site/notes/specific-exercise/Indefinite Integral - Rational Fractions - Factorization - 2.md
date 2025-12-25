@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-factorization-2/"}
+{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-factorization-2/","created":"2025-12-18T01:04:53.342+08:00","updated":"2025-12-25T16:42:32.428+08:00"}
 ---
 
 

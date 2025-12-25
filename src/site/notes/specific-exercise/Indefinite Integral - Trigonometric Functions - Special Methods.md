@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-trigonometric-functions-special-methods/","tags":["计算技巧"]}
+{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-trigonometric-functions-special-methods/","tags":["计算技巧"],"created":"2025-12-20T16:25:10.519+08:00","updated":"2025-12-25T16:42:40.692+08:00"}
 ---
 
 # 1.二倍角公式

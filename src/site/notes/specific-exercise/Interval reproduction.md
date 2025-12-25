@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/specific-exercise/interval-reproduction/"}
+{"dg-publish":true,"permalink":"/specific-exercise/interval-reproduction/","created":"2025-12-15T01:12:13.176+08:00","updated":"2025-12-25T16:11:20.182+08:00"}
 ---
 
 # 区间再现公式

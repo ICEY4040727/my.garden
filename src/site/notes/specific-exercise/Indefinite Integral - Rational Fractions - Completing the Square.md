@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-completing-the-square/"}
+{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-completing-the-square/","created":"2025-12-18T01:37:13.149+08:00","updated":"2025-12-25T16:42:22.264+08:00"}
 ---
 
 # 1.根据分母凑分子

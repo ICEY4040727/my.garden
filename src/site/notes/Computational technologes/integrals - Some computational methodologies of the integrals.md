@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computational-technologes/integrals-some-computational-methodologies-of-the-integrals/","tags":["计算技巧","高数上"]}
+{"dg-publish":true,"permalink":"/computational-technologes/integrals-some-computational-methodologies-of-the-integrals/","tags":["计算技巧","高数上"],"created":"2025-12-17T23:53:43.902+08:00","updated":"2025-12-25T16:42:50.374+08:00"}
 ---
 
 # 不定积分

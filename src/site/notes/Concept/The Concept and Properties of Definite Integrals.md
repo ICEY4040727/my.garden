@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concept/the-concept-and-properties-of-definite-integrals/","tags":["概念","高数上"]}
+{"dg-publish":true,"permalink":"/concept/the-concept-and-properties-of-definite-integrals/","tags":["概念","高数上"],"created":"2025-12-14T17:57:56.312+08:00","updated":"2025-12-25T16:07:03.731+08:00"}
 ---
 
 ---

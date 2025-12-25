@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/specific-exercise/definite-integral-calculation-combined-with-nl-textbook-formula/"}
+{"dg-publish":true,"permalink":"/specific-exercise/definite-integral-calculation-combined-with-nl-textbook-formula/","created":"2025-12-21T23:03:49.282+08:00","updated":"2025-12-25T16:09:17.871+08:00"}
 ---
 
 # 内容

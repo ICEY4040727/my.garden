@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/resource/"}
+{"dg-publish":true,"permalink":"/blog/resource/","created":"2025-12-25T11:01:24.814+08:00","updated":"2025-12-25T16:12:10.658+08:00"}
 ---
 
 

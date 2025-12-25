@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-factorization-1/"}
+{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-factorization-1/","created":"2025-12-18T00:31:05.706+08:00","updated":"2025-12-25T16:08:44.373+08:00"}
 ---
 
 # $\frac{A}{(x-a)^k}$ 型 

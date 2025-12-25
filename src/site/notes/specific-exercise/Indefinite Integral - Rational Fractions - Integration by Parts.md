@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-integration-by-parts/"}
+{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-integration-by-parts/","created":"2025-12-21T20:54:07.734+08:00","updated":"2025-12-25T16:42:22.282+08:00"}
 ---
 
 # 口诀
