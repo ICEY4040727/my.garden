@@ -71,8 +71,8 @@ $\displaystyle \int g\ [u(x)]\cdot u'(x)\ dx=\int g(u)\ du$
 #### 3.周期性
 
 #### 4.区间再现公式
-[[Computational technologes/区间再现\|区间再现]]
-#### 5.Wallis公式（点火公式）
+[[specific exercise/区间再现\|区间再现]]
+#### 5.W[[specific exercise/区间再现\|../specific exercise/区间再现]]点火公式）
 [[Wallis公式\|Wallis公式]]
 #### 6.教科公式
 [[specific exercise/定积分-结合NL的计算-教科公式\|定积分-结合NL的计算-教科公式]]
