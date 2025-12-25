@@ -1,0 +1,59 @@
+---
+{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-completing-the-square/"}
+---
+
+# 1.根据分母凑分子
+
+$\displaystyle \int \frac{1}{x^8 (1+x^2)}\ dx$
+
+$\displaystyle = \int \frac{(1+x^2)-x^2}{x^8(1+x^2)}\ dx$
+
+$\displaystyle = \int \frac{1}{x^8} - \int \frac{1}{(x^6)\ (1+x^2)}\ dx$
+
+## $\frac{A}{(x-a)^k}$ 型 { #be3592}
+
+
+>[!info] 添项减项化归
+
+$\displaystyle I = \int \frac{1}{(x^2 + a^2)^2}dx$
+{ #4f808c}
+
+
+$\displaystyle = \frac{1}{a^2} \int \frac{a^2 + x^2 -x^2} {(a^2 + x^2)^2}dx$
+
+$\displaystyle = \frac{1}{a^2} \int \frac{1} {(a^2 + x^2)}dx + \int \frac{-x^2} {(a^2 + x^2)^2}dx$
+
+>[[specific-exercise/Indefinite Integral - Rational Fractions - Factorization - 1#^92d7e4\|Indefinite Integral - Rational Fractions - Factorization - 1#^92d7e4]]
+
+
+
+# 2. 凑主元{ #2ac531}
+
+
+### 1.$\displaystyle \int \frac{e^{3x} + e^x}{e^{4x} - e^{2x} +1}\ dx$
+
+>[!info] 同乘 $e^x$ 来将 $e^x$ 作为积分变量
+
+$\displaystyle = \int \frac{e^{3x}+e^{x}}{e^x (e^{4x}-e^{2x}+1)}\ d\ e^x$
+
+$\displaystyle = \int \frac {t^2+1}{t^4 - t^2 +1} \ d\ t$
+
+$\displaystyle = \int \frac {\frac{1}{t^2} + 1}{t^2 + \frac{1}{t^2} - 1} dt$
+
+$\displaystyle = \int \frac {1}{t^2 + \frac{1}{t^2} - 1}\ d\ \ (t-\frac{1}{t})$
+
+$\displaystyle= \int \frac{1}{(t-\frac{1}{t})^2 + 1}\ d\ \ (t-\frac{1}{t})$
+
+$\displaystyle = \int \frac{1}{u^2 + 1}\ d\ u$
+
+### 2.[[specific-exercise/Indefinite Integral - Trigonometric Functions - Special Methods#^dcb34e\|不定积分-三角函数-配凑]]
+# 3.$\int\frac{1+x^2}{1+x^4} dx$
+
+*暂时还没想出来叫什么*
+
+$\displaystyle= \int\frac{1+\frac{1}{x^2}}{x^2+\frac{1}{x^2}}dx$
+
+$\displaystyle= \int\frac{(x-\frac{1}{x})'}{(x-\frac{1}{x})^2-2}dx$
+
+$\displaystyle = \int\frac{1}{t^2-2}\ dt$
+

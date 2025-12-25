@@ -17,36 +17,36 @@ $\displaystyle \int g\ [u(x)]\cdot u'(x)\ dx=\int g(u)\ du$
 
 #### 1.换元-打开局面
 ##### 1.三角换元
-[[specific exercise/不定积分-有理分式-换元法#^e103c6\|不定积分-有理分式-换元法#^e103c6]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Substitution Method#^e103c6\|../specific-exercise/Indefinite Integral - Rational Fractions - Substitution Method#^e103c6]]
 ##### 2.倒代换
-[[specific exercise/不定积分-有理分式-换元法#^17a308\|不定积分-有理分式-换元法#^17a308]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Substitution Method#^17a308\|../specific-exercise/Indefinite Integral - Rational Fractions - Substitution Method#^17a308]]
 
 
 #### 2.分部积分
 
 ###### 1.避过难以计算的因式
-[[specific exercise/不定积分-有理分式-分部积分#^f1c7a1\|不定积分-有理分式-分部积分#^f1c7a1]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Integration by Parts#^f1c7a1\|../specific-exercise/Indefinite Integral - Rational Fractions - Integration by Parts#^f1c7a1]]
 ###### 2.降次分母、升次分子
-[[specific exercise/不定积分-有理分式-因式分解-1\|分部积分降分母次数]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Factorization - 1\|分部积分降分母次数]]
 ###### 3.积分重现
 
 
 #### 3.代数变换
 
 ###### 1.共轭
-[[specific exercise/不定积分-有理分式-裂项#^2daebd\|共轭裂项]]
-[[specific exercise/不定积分-有理分式-裂项#^8a000f\|三角函数同乘共轭，减分母项数]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Partial Fractions#^2daebd\|共轭裂项]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Partial Fractions#^8a000f\|三角函数同乘共轭，减分母项数]]
 ###### 2.配凑
-[[specific exercise/不定积分-有理分式-配凑\|不定积分-有理分式-配凑]]
-[[specific exercise/不定积分-三角函数-特殊方法#^dcb34e\|不定积分-三角函数-配凑]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Completing the Square\|../specific-exercise/Indefinite Integral - Rational Fractions - Completing the Square]]
+[[specific-exercise/Indefinite Integral - Trigonometric Functions - Special Methods#^dcb34e\|不定积分-三角函数-配凑]]
 ###### 3.二倍角公式
-[[specific exercise/不定积分-三角函数-特殊方法#^b945bc\|二倍角公式]]
+[[specific-exercise/Indefinite Integral - Trigonometric Functions - Special Methods#^b945bc\|二倍角公式]]
 ###### 4.立方和/立方差 展开
-[[specific exercise/不定积分-有理分式-因式分解-2#^afc446\|立方展开]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Factorization - 2#^afc446\|立方展开]]
 ###### 5.换元法打开局面
-[[specific exercise/不定积分-有理分式-换元法\|不定积分-有理分式-换元法]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Substitution Method\|../specific-exercise/Indefinite Integral - Rational Fractions - Substitution Method]]
 ###### 6.合理拆并项
-[[specific exercise/合理拆并项\|合理拆并项]]
+[[specific-exercise/Reasonable split and merge items\|../specific-exercise/Reasonable split and merge items]]
 
 
 # 定积分
@@ -65,17 +65,17 @@ $\displaystyle \int g\ [u(x)]\cdot u'(x)\ dx=\int g(u)\ du$
 ### 结合N-L的一级技巧
 
 #### 1.定积分的几何意义(局限性大)
-[[specific exercise/定积分-结合NL的计算-几何意义\|定积分-结合NL的计算-几何意义]]
+[[specific-exercise/Definite Integral - Calculation Combining NL - Geometric Meaning\|../specific-exercise/Definite Integral - Calculation Combining NL - Geometric Meaning]]
 #### 2.奇偶性
 
 #### 3.周期性
 
 #### 4.区间再现公式
-[[specific exercise/区间再现\|区间再现]]
-#### 5.W[[specific exercise/区间再现\|../specific exercise/区间再现]]点火公式）
+[[specific-exercise/Interval reproduction\|../specific-exercise/Interval reproduction]]
+#### 5.Wallis公式
 [[Wallis公式\|Wallis公式]]
 #### 6.教科公式
-[[specific exercise/定积分-结合NL的计算-教科公式\|定积分-结合NL的计算-教科公式]]
+[[specific-exercise/Definite-Integral - Calculation-Combined-with-NL - Textbook-Formula\|../specific-exercise/Definite-Integral - Calculation-Combined-with-NL - Textbook-Formula]]
 
 
 
@@ -110,13 +110,13 @@ $\displaystyle \int g\ [u(x)]\cdot u'(x)\ dx=\int g(u)\ du$
 
 ###### $\frac{A}{(x-a)^k}$ 型
 
-[[specific exercise/不定积分-有理分式-因式分解-1#^be3592\|不定积分-有理分式-因式分解-1#^be3592]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Factorization - 1#^be3592\|../specific-exercise/Indefinite Integral - Rational Fractions - Factorization - 1#^be3592]]
 ###### $\frac{bx+c}{(x^2 + px+q)^{1 or 2}}$型
 
-[[specific exercise/不定积分-有理分式-因式分解-2#^4a37e8\|不定积分-有理分式-因式分解-2#^4a37e8]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Factorization - 2#^4a37e8\|../specific-exercise/Indefinite Integral - Rational Fractions - Factorization - 2#^4a37e8]]
 
 ##### 4.裂项
-[[specific exercise/不定积分-有理分式-裂项\|不定积分-有理分式-裂项]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Partial Fractions\|../specific-exercise/Indefinite Integral - Rational Fractions - Partial Fractions]]
 
 
 ## 2.三角有理函数的积分
@@ -136,7 +136,7 @@ $\displaystyle \int g\ [u(x)]\cdot u'(x)\ dx=\int g(u)\ du$
 #### 1.减分母
 	三角函数中减分母的项数有三种方法：同乘共轭、二倍角、和差化积
 ##### 同乘共轭
-[[specific exercise/不定积分-有理分式-裂项#^8a000f\|三角函数同乘共轭，减分母项数]]
+[[specific-exercise/Indefinite Integral - Rational Fractions - Partial Fractions#^8a000f\|三角函数同乘共轭，减分母项数]]
 ##### 二倍角公式
 [[不定积分-三角函数-二倍角\|不定积分-三角函数-二倍角]]
 ##### 和差化积
