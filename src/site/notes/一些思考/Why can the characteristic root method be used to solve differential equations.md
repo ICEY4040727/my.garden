@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//why-can-the-characteristic-root-method-be-used-to-solve-differential-equations/","created":"2025-12-27T10:48:16.109+08:00","updated":"2025-12-27T13:44:22.260+08:00"}
+{"dg-publish":true,"permalink":"//why-can-the-characteristic-root-method-be-used-to-solve-differential-equations/","created":"2025-12-27T10:48:16.109+08:00","updated":"2026-01-02T13:30:05.917+08:00"}
 ---
 
 # 关于解微分方程
@@ -10,9 +10,9 @@
 
 学习求解微分方程的时候，根据同济版高数，我们总是被给出一个**先行结论**，再进行讨论，
 像是
-![](/img/user/Pasted%20image%2020251227111231.png)
+![](/img/user/picture/Pasted%20image%2020251227111231.png)
 
-![](/img/user/Pasted%20image%2020251227111540.png)
+![](/img/user/picture/Pasted%20image%2020251227111540.png)
 
 *如果已知……那么……*
 *已知……因此……*
@@ -43,7 +43,7 @@
 
 如下图便是一个例子：
 
-![](/img/user/Pasted%20image%2020251227111202.png)
+![](/img/user/picture/Pasted%20image%2020251227111202.png)
 
 拿到一个二阶齐次线性微分方程的时候，我们先对形式进行观察。
 

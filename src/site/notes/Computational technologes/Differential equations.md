@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computational-technologes/differential-equations/","created":"2025-12-25T20:44:41.860+08:00","updated":"2025-12-27T13:43:27.431+08:00"}
+{"dg-publish":true,"permalink":"/computational-technologes/differential-equations/","created":"2025-12-25T20:44:41.860+08:00","updated":"2026-01-02T10:48:08.433+08:00"}
 ---
 
 # 一.基本概念
@@ -59,7 +59,7 @@ $$
 $$
 \int\frac{1}{f(u)-u}du=\int\frac{1}{x}dx
 $$
-
+[[specific-exercise/齐次微分方程例题\|../specific-exercise/齐次微分方程例题]]
 ## （三）一阶线性齐次微分方程 
 
 *注 1：此处的“线性”，指的是**待求函数及其导数**的**幂次**均为1*
@@ -110,7 +110,7 @@ $$\displaystyle y=e^{-\int P(x)\ dx}\ (\int Q(x)\ e^{\int P(x)dx}\ d\ x+C)$$
 
 ### （二）$f(x,y',y'')=0$ 
 
-令$y'=p$ ,原式降阶为一阶微分方程
+令$y'=p$ ,原式降阶为一阶微分方程[[]]
 
 ### （三）$f(y,y',y'')=0$
 
@@ -170,3 +170,29 @@ $$
 
 
 # 六、n阶常系数齐次线性微分方程 
+
+## 解法
+
+假设方程为
+$$
+y'''+ay''+by'+cy=0
+$$
+则特征方程为
+$$
+\lambda^3+a\lambda^2+b\lambda+c=0
+$$
+然后分四类讨论
+
+$$
+1. 解得\lambda_1\neq\lambda_2\neq\lambda_3,则y=C_1e^{\lambda_1x}+C_2e^{\lambda_2x}+C_3e^{\lambda_3x}
+$$
+$$
+2. 解得\lambda_1=\lambda_2\neq\lambda_3,则y=(C_1+C_2x)e^{\lambda x}+C_3e^{\lambda_3x}
+$$
+$$
+3.解得三个相等实根，即\lambda_1=\lambda_2=\lambda_3,则\ y=(C_1+C_2x+C_3x^2)e^{\lambda x}
+$$
+
+$$
+4.一个实根\lambda，两个共轭虚根\lambda_{2/3}=a+-bi，则\ y=C_1e^{\lambda_1}+(C_2\cos\beta x+C_3\sin\alpha x)e^{ax}
+$$

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-substitution-method/","created":"2025-12-18T01:51:04.286+08:00","updated":"2025-12-25T16:08:23.304+08:00"}
+{"dg-publish":true,"permalink":"/specific-exercise/indefinite-integral-rational-fractions-substitution-method/","created":"2025-12-18T01:51:04.286+08:00","updated":"2026-01-02T02:49:16.758+08:00"}
 ---
 
 
@@ -61,7 +61,7 @@ $\displaystyle = \int \frac{1}{t+1}d\ t$
 
 
 
-$\displaystyle \int \frac{1}{x^8 (1+x^2)}\ dx$
+### $\displaystyle \int \frac{1}{x^8 (1+x^2)}\ dx$
 
 $令x=\frac{1}{t}$
 
@@ -69,3 +69,35 @@ $\displaystyle = \int{t^8(1+\frac{1}{t^2})}\ d\frac{1}{t}$
 
 $\displaystyle = -\int t^6 - \int \frac{1}{x^4} dt$
 
+
+### $\displaystyle I = \int_0^{+\infty} \frac{1}{(1+x^2)(1+x^\alpha)} \, dx, \quad \alpha \ne 0$
+
+$$
+令x = \frac{1}{t} \Rightarrow dx = -\frac{1}{t^2} dt
+$$
+
+$$当 x \to 0^+ 时，t \to +\infty；$$$$
+当 x \to +\infty 时，t \to 0^+。
+$$
+所以积分变为：
+$$
+I = \int_{+\infty}^{0} \frac{1}{(1+(1/t)^2)(1+(1/t)^\alpha)} \cdot \left(-\frac{1}{t^2}\right) dt = \int_0^{+\infty} \frac{1}{(1 + \frac{1}{t^2})(1 + t^{-\alpha})} \cdot \frac{1}{t^2} dt
+$$
+代入：
+$$
+I = \int_0^{+\infty} \frac{1}{\frac{t^2 + 1}{t^2} \cdot \frac{t^\alpha + 1}{t^\alpha}} \cdot \frac{1}{t^2} dt = \int_0^{+\infty} \frac{t^2 \cdot t^\alpha}{(t^2 + 1)(t^\alpha + 1)} \cdot \frac{1}{t^2} dt = \int_0^{+\infty} \frac{t^\alpha}{(t^2 + 1)(t^\alpha + 1)} dt
+$$
+即：
+$$
+I = \int_0^{+\infty} \frac{x^\alpha}{(1+x^2)(1+x^\alpha)} dx \tag{2}
+$$
+和原式相加：
+$$
+2I = \int_0^{+\infty} \left[ \frac{1}{(1+x^2)(1+x^\alpha)} + \frac{x^\alpha}{(1+x^2)(1+x^\alpha)} \right] dx = \int_0^{+\infty} \frac{1 + x^\alpha}{(1+x^2)(1+x^\alpha)} dx = \int_0^{+\infty} \frac{1}{1+x^2} dx
+$$
+这个积分是标准结果：
+$$
+\int_0^{+\infty} \frac{1}{1+x^2} dx = \left. \arctan x \right|_0^{+\infty} = \frac{\pi}{2} - 0 = \frac{\pi}{2}
+$$
+所以：
+$2I = \frac{\pi}{2} \Rightarrow I = \frac{\pi}{4}$

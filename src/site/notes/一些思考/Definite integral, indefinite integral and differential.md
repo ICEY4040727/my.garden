@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//definite-integral-indefinite-integral-and-differential/","tags":["对概念的思考","高数上"],"created":"2025-12-14T23:01:42.694+08:00","updated":"2025-12-25T16:29:25.806+08:00"}
+{"dg-publish":true,"permalink":"//definite-integral-indefinite-integral-and-differential/","tags":["对概念的思考","高数上"],"created":"2025-12-14T23:01:42.694+08:00","updated":"2026-01-02T13:31:39.739+08:00"}
 ---
 
 # 积分与微分的本质

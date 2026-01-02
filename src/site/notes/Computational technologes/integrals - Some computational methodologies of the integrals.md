@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computational-technologes/integrals-some-computational-methodologies-of-the-integrals/","tags":["计算技巧","高数上"],"created":"2025-12-17T23:53:43.902+08:00","updated":"2025-12-25T16:42:50.374+08:00"}
+{"dg-publish":true,"permalink":"/computational-technologes/integrals-some-computational-methodologies-of-the-integrals/","tags":["计算技巧","高数上"],"created":"2025-12-17T23:53:43.902+08:00","updated":"2026-01-02T11:04:34.108+08:00"}
 ---
 
 # 不定积分
@@ -20,6 +20,7 @@ $\displaystyle \int g\ [u(x)]\cdot u'(x)\ dx=\int g(u)\ du$
 [[specific-exercise/Indefinite Integral - Rational Fractions - Substitution Method#^e103c6\|../specific-exercise/Indefinite Integral - Rational Fractions - Substitution Method#^e103c6]]
 ##### 2.倒代换
 [[specific-exercise/Indefinite Integral - Rational Fractions - Substitution Method#^17a308\|../specific-exercise/Indefinite Integral - Rational Fractions - Substitution Method#^17a308]]
+
 
 
 #### 2.分部积分
@@ -72,12 +73,30 @@ $\displaystyle \int g\ [u(x)]\cdot u'(x)\ dx=\int g(u)\ du$
 
 #### 4.区间再现公式
 [[specific-exercise/Interval reproduction\|../specific-exercise/Interval reproduction]]
+
+##### 一种通过倒代换实现区间再现的方式
+
 #### 5.Wallis公式
-[[Wallis公式\|Wallis公式]]
+[[specific-exercise/Wallis公式\|../specific-exercise/Wallis公式]]
 #### 6.教科公式
 [[specific-exercise/Definite-Integral - Calculation-Combined-with-NL - Textbook-Formula\|../specific-exercise/Definite-Integral - Calculation-Combined-with-NL - Textbook-Formula]]
 
+#### 二级技巧
+##### 代换
+###### 指数代换
 
+###### 三角代换
+
+###### 双曲代换
+
+##### 含参积分
+
+###### 引入参数求导（莱布尼茨公式）
+[[含参变量积分\|../含参变量积分]]
+
+###### 留数法
+
+###### gamma与beta函数法
 
 
 
