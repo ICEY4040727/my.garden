@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/specific-exercise/riemann-sum/","created":"2025-12-29T10:08:22.280+08:00","updated":"2026-01-02T13:44:36.250+08:00"}
+---
+
+# 
+### 
+#### ![](/img/user/picture/IMG_20251229_101242.jpg)
+
+原式可化为
+
+$$\lim_{n \to \infty} \frac{1}{n} \sum_{k=1}^n 2 \ln\left(1 + \frac{k}{n}\right) = 2 \int_0^1 \ln(1+x) \, dx.$$
+
+令$t=x+1$
+则原式$=2\int_0^1 \ln(t)\ dt$
+对应C项

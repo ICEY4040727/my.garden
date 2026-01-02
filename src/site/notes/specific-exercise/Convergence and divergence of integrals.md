@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/specific-exercise/convergence-and-divergence-of-integrals/","created":"2025-12-29T10:23:13.412+08:00","updated":"2026-01-02T13:43:17.362+08:00"}
+---
+
+
+# 广义积分
+
+### 
+#### 1.设广义积分$$\int_{-\infty}^0 e^{-kx}\ dx$$
+**若该积分收敛**，**则**
+- k＜0
+- k＜=0
+- k＞0
+- k≥0
+
+**计算广义积分** $$\int_{-\infty}^{0} e^{-kx} \, dx：$$
+
+原函数为 $$-\frac{1}{k} e^{-kx}（k \neq 0）。$$
+
+积分值为$$ \lim_{a \to -\infty} \left( -\frac{1}{k} + \frac{1}{k} e^{-ka} \right)。$$
+
+$$当 k > 0 时，e^{-ka} \to +\infty，积分发散。$$
+
+$$当 k < 0 时，e^{-ka} \to 0，积分收敛于 -\frac{1}{k}。$$
+
+$$当 k = 0 时，被积函数为常数 1，积分发散。$$
+
+$$结论： 积分收敛的条件是 k < 0。$$

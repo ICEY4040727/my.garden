@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computational-technologes/integrals-some-computational-methodologies-of-the-integrals/","tags":["计算技巧","高数上"],"created":"2025-12-17T23:53:43.902+08:00","updated":"2026-01-02T11:04:34.108+08:00"}
+{"dg-publish":true,"permalink":"/computational-technologes/integrals-some-computational-methodologies-of-the-integrals/","tags":["计算技巧","高数上"],"created":"2025-12-17T23:53:43.902+08:00","updated":"2026-01-02T13:47:29.019+08:00"}
 ---
 
 # 不定积分
@@ -92,7 +92,7 @@ $\displaystyle \int g\ [u(x)]\cdot u'(x)\ dx=\int g(u)\ du$
 ##### 含参积分
 
 ###### 引入参数求导（莱布尼茨公式）
-[[含参变量积分\|../含参变量积分]]
+[[Computational technologes/Integral with parameters\|Integral with parameters]]
 
 ###### 留数法
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computational-technologes/differential-equations/","created":"2025-12-25T20:44:41.860+08:00","updated":"2026-01-02T10:48:08.433+08:00"}
+{"dg-publish":true,"permalink":"/computational-technologes/differential-equations/","created":"2025-12-25T20:44:41.860+08:00","updated":"2026-01-02T13:45:03.568+08:00"}
 ---
 
 # 一.基本概念
@@ -59,7 +59,7 @@ $$
 $$
 \int\frac{1}{f(u)-u}du=\int\frac{1}{x}dx
 $$
-[[specific-exercise/齐次微分方程例题\|../specific-exercise/齐次微分方程例题]]
+[[specific-exercise/Examples of homogeneous differential equations\|../specific-exercise/Examples of homogeneous differential equations]]
 ## （三）一阶线性齐次微分方程 
 
 *注 1：此处的“线性”，指的是**待求函数及其导数**的**幂次**均为1*

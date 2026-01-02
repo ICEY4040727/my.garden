@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computational-technologes/limits-some-computational-methodologies-of-the-limits/","tags":["计算技巧","高数上"],"created":"2025-12-14T18:44:11.578+08:00","updated":"2026-01-02T13:31:28.810+08:00"}
+{"dg-publish":true,"permalink":"/computational-technologes/limits-some-computational-methodologies-of-the-limits/","tags":["计算技巧","高数上"],"created":"2025-12-14T18:44:11.578+08:00","updated":"2026-01-02T13:46:06.785+08:00"}
 ---
 
 # 极限的计算
@@ -22,7 +22,7 @@
 #### 3. $(1+x)^a -1\sim ax$
 
 应用
-[[specific-exercise/等价无穷小代换\|../specific-exercise/等价无穷小代换]]
+[[specific-exercise/Equivalent infinitesimal substitution\|../specific-exercise/Equivalent infinitesimal substitution]]
 
 
 ### 洛必达法则
@@ -34,7 +34,7 @@
 5. 当n足够大时，有$n^n>>n!>>2^n>>n^2>>\ln n>>\ln\ln n$
 ### 抓大头
 
-[[specific-exercise/无穷大根式估值1\|../specific-exercise/无穷大根式估值1]]
+[[specific-exercise/Infinite Radical Valuation 1\|../specific-exercise/Infinite Radical Valuation 1]]
 
 #### 七种极限未定式求解
 

@@ -1,0 +1,40 @@
+---
+{"dg-publish":true,"permalink":"/blog/homepage/","title":"🧠 ICEY 的知识荒原","tags":["gardenEntry"],"created":"2025-12-25T15:59:02.247+08:00","updated":"2026-01-02T13:42:11.769+08:00"}
+---
+
+
+# 欢迎来到我的数字花园
+
+这里是我存放碎片化思考、学习笔记和技术沉淀的地方。比起博客，这里的笔记会随着我的理解不断“生长”，编辑和呈现也更加自动化。
+
+---
+
+## 🗺️ 知识地图
+
+### 🤖 人工智能与深度学习
+- [Large model architecture](../llm/Large%20model%20architecture.md) 🌱
+
+
+### 📐 数学基础
+- [[一些思考/Definite integral, indefinite integral and differential\|微积分：从不定积分到微分]] 
+- [integrals - Some computational methodologies of the integrals](../Computational%20technologes/integrals%20-%20Some%20computational%20methodologies%20of%20the%20integrals.md)🌿
+
+### 💻 编程与工具
+- [Cloud deployment of Hexo + GitHub Pages](Cloud%20deployment%20of%20Hexo%20+%20GitHub%20Pages.md) 🌳
+
+---
+
+## 🕒 最近更新
+- [[一些思考/Definite integral, indefinite integral and differential\|一些思考/Definite integral, indefinite integral and differential]] — *2025-12-25*
+---
+
+## 🌿 笔记说明
+- 🌱 **萌芽**：初步记录，内容零散。
+- 🌿 **生长**：已有框架，正在补充细节。
+- 🌳 **常青**：逻辑严密，长期参考的结论。
+
+---
+**查看关系图谱可点击跳转**
+
+
+
